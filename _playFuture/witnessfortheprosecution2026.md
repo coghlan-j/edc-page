@@ -50,9 +50,9 @@ cast:
 ---
 
 ### By {{ page.author }}
-{% comment %}
+
 ### Directed by {{ page.director }}
-{% endcomment %}
+
 
 London, 1926. When Leonard Vole, a charming young man, is accused of murdering a
 wealthy spinster, he finds himself at the centre of a sensational murder trial.
